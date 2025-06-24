@@ -1,4 +1,4 @@
-# Guia de Instalação do Notepad++ - Português (Brasil)
+# Perguntas Frequentes (FAQ) - Notepad++ - Português (Brasil)
 Este repositório contém um material de apoio a comunidade do Notepad++ que contém um FAQ relacionado a instalação, desinstalação e problemas comuns, traduzido e adaptado para usuários de língua portuguesa.
 
 ## Conteúdo
