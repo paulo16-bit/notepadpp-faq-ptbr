@@ -7,4 +7,4 @@ Este repositório contém um material de apoio a comunidade do Notepad++ que con
 
 ## Objetivo
 
-Facilitar o processo de instalação do Notepad++ para iniciantes e usuários que preferem ler instruções em português.
+Responder algumas dúvidas sobre o processo de instalação e desinstalação do Notepad++, além de problemas comuns, para iniciantes e usuários que preferem ler instruções em português.
