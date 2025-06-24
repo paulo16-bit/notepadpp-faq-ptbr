@@ -1,10 +1,9 @@
 # Guia de Instalação do Notepad++ - Português (Brasil)
-
-Este repositório contém um guia passo a passo para instalar o editor de texto Notepad++, traduzido e adaptado para usuários de língua portuguesa.
+Este repositório contém um material de apoio a comunidade do Notepad++ que contém um FAQ relacionado a instalação, desinstalação e problemas comuns, traduzido e adaptado para usuários de língua portuguesa.
 
 ## Conteúdo
 
-- [Guia de Instalação](guia-de-instalação.pdf)
+- [Perguntas Frequentes](perguntas-frequentes.pdf)
 
 ## Objetivo
 
