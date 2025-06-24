@@ -1,0 +1,1 @@
+# notepadpp-guia-instalacao-ptbr
