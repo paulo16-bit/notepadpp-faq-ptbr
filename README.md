@@ -1,5 +1,5 @@
 # Perguntas Frequentes (FAQ) - Notepad++ - Português (Brasil)
-Este repositório contém um material de apoio a comunidade do Notepad++ que contém um FAQ relacionado a instalação, desinstalação e problemas comuns, traduzido e adaptado para usuários de língua portuguesa.
+Este repositório disponibiliza um material de apoio à comunidade do Notepad++, contendo um FAQ traduzido e adaptado para o público de língua portuguesa. O conteúdo aborda temas como instalação, desinstalação e solução de problemas comuns, com foco em orientar iniciantes de forma simples e prática.
 
 ## Conteúdo
 
